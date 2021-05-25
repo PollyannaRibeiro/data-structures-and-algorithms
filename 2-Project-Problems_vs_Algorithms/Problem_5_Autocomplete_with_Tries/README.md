@@ -14,5 +14,3 @@ Created a trie and its node, and checked if there are suffixes of the prefixes p
 If it doesn't have any, it returns an empty array `[]`. 
 The Find and Insert methods time complexity is O(1) because the time won't change based on the number of nodes stored in the trie. 
 And it's space complexity is O(n).
-
-- [Autocomplete with Tries](#Problem_5_Autocomplete_with_Tries/Problem_5_Autocomplete_with_Tries.py)

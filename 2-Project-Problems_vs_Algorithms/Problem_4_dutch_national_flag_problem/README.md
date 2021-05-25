@@ -11,4 +11,3 @@ the second to check and remove from the traversal the last correctly positioned 
 and the third to run through the array.
 Its time and space complexity is O(n).
 
-- [Dutch National Flag](#Problem_4_dutch_national_flag_problem/Problem_4_dutch_national_flag_problem.py)

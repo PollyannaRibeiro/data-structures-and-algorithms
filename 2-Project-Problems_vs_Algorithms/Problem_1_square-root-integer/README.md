@@ -18,5 +18,3 @@ This project was challenging due to the amount of step to calculate the square r
 The tests were done with different numbers of digits, odd, even numbers, and approximate sqrt.
 <br>
 The time complexity is Big O(log n) and its Space complexity is O(n).
-
-- [Square Root Integer](#Problem_1_square-root-integer/Problem_1_square-root-integer.py)

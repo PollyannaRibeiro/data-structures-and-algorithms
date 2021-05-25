@@ -12,4 +12,3 @@ I worked with the set and intersection set method to find the Union and Intersec
 knowing that a set is based on a hash table, the Big O of getting a set is O(1). However, 
 to create and returns the linked list, the time and space complexity are O(n).
 
-- [Union and Intersection](#Problem_6_Union_and_Intersection/Problem_6_Union_and_Intersection.py)

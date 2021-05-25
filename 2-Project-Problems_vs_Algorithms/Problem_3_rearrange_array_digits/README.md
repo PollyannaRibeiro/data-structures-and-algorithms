@@ -16,4 +16,3 @@ I used a quick sort to sort the array, then I use the biggest numbers to fill th
 higher order, guaranteeing the biggest number. Its time complexity is O(n) and 
 space complexity is O(n).
 
-- [Rearrange Array Digits](#Problem_3_rearrange_array_digits/Problem_3_rearrange_array_digits.py)

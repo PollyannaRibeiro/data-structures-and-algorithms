@@ -25,5 +25,3 @@ The Find and Insert methods time complexity is O(1) because the time won't chang
 stored in the router. 
 And it's space complexity is O(n).
 
-- [Request Routing in a Web Server with a Trie](#Problem_7_Request_Routing_in_a_Web_Server_with_a_Trie/Problem_7_Request_Routing_in_a_Web_Server_with_a_Trie.py)
-

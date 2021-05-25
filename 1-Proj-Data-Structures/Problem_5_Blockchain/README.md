@@ -10,4 +10,3 @@ For our blockchain, we will be using a SHA-256 hash, the Greenwich Mean Time whe
 I built a blockchain class that appends blocks on the tail of the chain and also checks if the block is already there. 
 The Big O complexity of adding an item is O(1) and the Space Complexity of a linked list is O(n).
 
-- [Blockchain](#Problem_5_Blockchain/Problem_5_Blockchain.py)

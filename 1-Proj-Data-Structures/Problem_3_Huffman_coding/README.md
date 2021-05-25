@@ -17,4 +17,3 @@ bit (0 or 1) depending on if it is left or right child, generating a dictionary
 with the code, you can do both operation huffman encoding and decoding. The time 
 complexity of decoding the Huffman tree is O(log n) and its space complexity is O(n).
 
-- [Huffman Coding](#Problem_3_Huffman_coding/Problem_3_Huffman_coding.py)

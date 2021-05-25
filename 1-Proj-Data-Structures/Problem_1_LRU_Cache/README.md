@@ -18,4 +18,3 @@ way I could easily find a node given a key, and from that node could quickly mov
 And the space complexity is the capacity of the cache, so it is O(capacity). 
 Also included tests to check for edge cases.
 
- - [LRU Cache](#Problem_1_LRU_Cache/Problem_1_LRU_Cache.py)

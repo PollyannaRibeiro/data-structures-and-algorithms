@@ -13,4 +13,3 @@ allowed to use it.
 I did a loop with recursion that runs for each directory  and file just once, 
 so its time and space complexity is O(n). The test also checks for edge cases.
 
-- [File Recursion](#Problem_2_File_Recursion/Proj-File-Recursion.py)

@@ -18,4 +18,3 @@ To solve this problem, I created 3 pivots - first, middle and last index. The go
 input into segments, and find the orientation of each segment to properly loop over it. It will return -1 if not found.
 <br>
 Its time complexity is O(log n) and its space complexity is O(n).
-- [Rotated Array Search](#Problem_2_rotated_array_search/Problem_2_rotated_array_search.py)
